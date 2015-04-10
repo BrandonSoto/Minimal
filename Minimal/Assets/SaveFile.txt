@@ -1,0 +1,12 @@
+player color:
+Orange
+player x:
+0
+player y:
+-1
+camera x:
+0
+sound:
+True
+cutout x:
+13.8
